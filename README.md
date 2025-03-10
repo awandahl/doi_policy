@@ -67,7 +67,7 @@ Digital Object Identifiers (DOIs) will be assigned to eligible research outputs 
 ### Versioning
 
 - **New Versions**: If significant changes are made to a research output, a new version will be created and assigned a new DOI. The new DOI will be linked to the previous version to maintain a version history.
-- **Metadata Updates**: Minor updates to metadata can be made without creating a new version, following [DataCite](https://zenodo.org/records/7099881) or Crossref best practices for metadata management.
+- **Metadata Updates**: Minor updates to metadata can be made without creating a new version, following [DataCite](https://zenodo.org/records/7099881) or [Crossref](https://www.crossref.org/documentation/principles-practices/best-practices/) best practices for metadata management.
 
 ### Responsibilities
 
@@ -138,7 +138,7 @@ To enhance the discoverability, accessibility, and citability of research output
     - **Application**: DOIs are assigned to eligible research outputs deposited into our institutional repository DiVA or KTH Data Repository.
 2. **ORCiD iDs**:
     - **Purpose**: ORCiD iDs are used to uniquely identify researchers and contributors, linking them to their research outputs across different systems and platforms.
-    - **Application**: Researchers are encouraged to obtain and use ORCiD iDs in their publications and when submitting outputs to the repositories, see https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/hantera-orcid-id-1.865205.
+    - **Application**: Researchers are encouraged to obtain and use ORCiD iDs in their publications and when submitting outputs to the repositories, see [Manage ORCID id at KTH](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/hantera-orcid-id-1.865205)
 3. **RAiD (Research Activity Identifier) and ROAR (Registry of Open Access Repositories)**:
     - **Purpose**: These identifiers can be used for projects and organizations to provide additional context and visibility.
     - **Application**: While not mandatory, researchers may use these identifiers to further enhance the discoverability of their projects and affiliations.
