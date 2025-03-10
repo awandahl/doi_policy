@@ -101,9 +101,6 @@ Modifications to research outputs can occur for various reasons, such as updates
 - **Transparency**: Researchers should clearly indicate in the output itself if it is a revised version, including any changes made.
 - **Citation**: When citing previous versions, researchers should use the DOI of the specific version being referenced.
 
-By managing modifications effectively, our institution ensures that research outputs remain accurate, reliable, and easily accessible over time.
-
-
 ## Exceptions
 
 While this policy aims to provide a comprehensive framework for assigning DOIs to research outputs, there are certain exceptions and considerations that must be addressed.
