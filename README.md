@@ -37,6 +37,14 @@ To be eligible for a Digital Object Identifier (DOI), research outputs must meet
 
 By meeting these criteria, research outputs can be assigned DOIs, enhancing their visibility and facilitating their integration into the global research ecosystem.
 
+### Situations Where a DOI May Not Be Issued
+
+- **Conflict with Existing DOIs**: If a DOI already exists for the same data, such as one created by another institution, repository, publisher, or data center, a new DOI will not be issued. Researchers will be notified, and alternative solutions will be explored.
+- **Eligibility Criteria Not Met**: Research outputs lacking high-quality metadata, failing to adhere to FAIR principles, or not meeting other eligibility criteria will not be assigned a DOI until these issues are resolved.
+- **Restricted Data**: DOIs will not be assigned to data intended for highly restricted access, as this contradicts the purpose of DOIs in facilitating open access and discoverability.
+- **Significant Changes**: If the data linked to a DOI will undergo significant changes, a new DOI should be created for each major version or update to maintain version control and clarity.
+- **Legal, Ethical, or Contractual Issues**: Outputs with unresolved legal, ethical, or contractual issues at the time of registration will not be assigned a DOI until these concerns are addressed.
+- **Technical Issues**: In rare cases, technical issues may temporarily prevent DOI assignment. Repository administrators will work with researchers to resolve these issues and facilitate DOI registration as soon as possible.
 
 ---
 
