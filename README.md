@@ -48,7 +48,7 @@ To be eligible for a Digital Object Identifier (DOI), research outputs must meet
 
 ### Overview
 
-Digital Object Identifiers (DOIs) will be assigned to eligible research outputs deposited into our institutional repository DiVA or KTH Data Repository. This process ensures that each output is uniquely identified and can be reliably cited and accessed.
+Digital Object Identifiers (DOIs) will be assigned to eligible research outputs deposited into our institutional repository [DiVA](https://kth.diva-portal.org/smash/search.jsf?dswid=9718) or [KTH Data Repository](https://datarepository.kth.se/). This process ensures that each output is uniquely identified and can be reliably cited and accessed.
 
 ### Key Principles
 
@@ -137,10 +137,10 @@ To enhance the discoverability, accessibility, and citability of research output
     - **Purpose**: DOIs are used for published outputs, datasets, and other research materials to ensure they can be uniquely identified and reliably cited.
     - **Application**: DOIs are assigned to eligible research outputs deposited into our institutional repository DiVA or KTH Data Repository.
 2. **ORCiD iDs**:
-    - **Purpose**: ORCiD iDs are used to uniquely identify researchers and contributors, linking them to their research outputs across different systems and platforms.
+    - **Purpose**: (ORCiD)(https://orcid.org/) iDs are used to uniquely identify researchers and contributors, linking them to their research outputs across different systems and platforms.
     - **Application**: Researchers are encouraged to obtain and use ORCiD iDs in their publications and when submitting outputs to the repositories, see [Manage ORCID id at KTH](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/hantera-orcid-id-1.865205)
 3. **RAiD (Research Activity Identifier) and ROR (Research Organization Registry)**:
-    - **Purpose**: These identifiers can be used for projects and organizations to provide additional context and visibility.
+    - **Purpose**: The identifiers [RAiD](https://raid.org/) and [ROR](https://ror.org/) can be added to provide additional context and visibility.
     - **Application**: While not mandatory, researchers may use these identifiers to further enhance the discoverability of their projects and affiliations.
 
 ### Benefits of Persistent Identifiers
