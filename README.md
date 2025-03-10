@@ -139,7 +139,7 @@ To enhance the discoverability, accessibility, and citability of research output
 2. **ORCiD iDs**:
     - **Purpose**: ORCiD iDs are used to uniquely identify researchers and contributors, linking them to their research outputs across different systems and platforms.
     - **Application**: Researchers are encouraged to obtain and use ORCiD iDs in their publications and when submitting outputs to the repositories, see [Manage ORCID id at KTH](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/hantera-orcid-id-1.865205)
-3. **RAiD (Research Activity Identifier) and ROAR (Registry of Open Access Repositories)**:
+3. **RAiD (Research Activity Identifier) and ROR (Research Organization Registry)**:
     - **Purpose**: These identifiers can be used for projects and organizations to provide additional context and visibility.
     - **Application**: While not mandatory, researchers may use these identifiers to further enhance the discoverability of their projects and affiliations.
 
