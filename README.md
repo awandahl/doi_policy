@@ -67,7 +67,7 @@ Digital Object Identifiers (DOIs) will be assigned to eligible research outputs 
 ### Versioning
 
 - **New Versions**: If significant changes are made to a research output, a new version will be created and assigned a new DOI. The new DOI will be linked to the previous version to maintain a version history.
-- **Metadata Updates**: Minor updates to metadata can be made without creating a new version, following DataCite or Crossref best practices for metadata management.
+- **Metadata Updates**: Minor updates to metadata can be made without creating a new version, following [DataCite](https://zenodo.org/records/7099881) or Crossref best practices for metadata management.
 
 ### Responsibilities
 
