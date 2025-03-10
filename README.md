@@ -1,4 +1,4 @@
-# doi_policy
+# doi_policy very much work in progress
 
 
 
