@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In line with KTH Royal Institute of Technology's commitment to enhancing the visibility, accessibility, and impact of research outputs, KTH is implementing a comprehensive Digital Object Identifier (DOI) policy. This policy is designed to ensure that our scholarly works, including datasets, theses, and reports in the TRITA series, are assigned unique and persistent identifiers that facilitate their discovery, citation, and reuse. By adopting DOIs, we aim to promote transparency, accountability, and collaboration within the academic community, while aligning with international standards for data sharing and management. This policy outlines the guidelines and best practices for DOI registration, ensuring compliance with DataCite and Crossref requirements and supporting our institution's mission to advance knowledge and innovation.
+In line with KTH Royal Institute of Technology's commitment to enhancing the visibility, accessibility, and impact of research outputs, KTH is implementing a comprehensive Digital Object Identifier (DOI) policy. This policy is designed to ensure that our scholarly works, including datasets, theses, and reports and other research outputs in the TRITA series, are assigned unique and persistent identifiers that facilitate their discovery, citation, and reuse. By adopting DOIs, we aim to promote transparency, accountability, and collaboration within the academic community, while aligning with international standards for data sharing and management. This policy outlines the guidelines and best practices for DOI registration, ensuring compliance with DataCite and Crossref requirements and supporting our institution's mission to advance knowledge and innovation.
 
 
 ---
@@ -15,7 +15,7 @@ This Digital Object Identifier (DOI) policy applies to the following research ou
 
 - **Datasets**: Raw data, processed data, and metadata associated with research projects.
 - **Theses and Dissertations**: Final versions of graduate theses.
-- **Reports**: Reports belonging to the TRITA series.
+- **Outputs in the TRITA series**: Reports and other research outputs belonging to the TRITA series.
 
 This policy is applicable to all researchers, faculty members, and staff involved in creating and managing these research outputs.  
 
