@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In line with KTH Royal Institute of Technology's commitment to enhancing the visibility, accessibility, and impact of research outputs, our university is implementing a comprehensive Digital Object Identifier (DOI) policy. This policy is designed to ensure that our scholarly works, including datasets, theses, and reports in the TRITA series, are assigned unique and persistent identifiers that facilitate their discovery, citation, and reuse. By adopting DOIs, we aim to promote transparency, accountability, and collaboration within the academic community, while aligning with international standards for data sharing and management. This policy outlines the guidelines and best practices for DOI registration, ensuring compliance with DataCite and Crossref requirements and supporting our institution's mission to advance knowledge and innovation.
+In line with KTH Royal Institute of Technology's commitment to enhancing the visibility, accessibility, and impact of research outputs, KTH is implementing a comprehensive Digital Object Identifier (DOI) policy. This policy is designed to ensure that our scholarly works, including datasets, theses, and reports in the TRITA series, are assigned unique and persistent identifiers that facilitate their discovery, citation, and reuse. By adopting DOIs, we aim to promote transparency, accountability, and collaboration within the academic community, while aligning with international standards for data sharing and management. This policy outlines the guidelines and best practices for DOI registration, ensuring compliance with DataCite and Crossref requirements and supporting our institution's mission to advance knowledge and innovation.
 
 
 ---
@@ -67,7 +67,7 @@ Digital Object Identifiers (DOIs) will be assigned to eligible research outputs 
 ### Versioning
 
 - **New Versions**: If significant changes are made to a research output, a new version will be created and assigned a new DOI. The new DOI will be linked to the previous version to maintain a version history.
-- **Metadata Updates**: Minor updates to metadata can be made without creating a new version, following DataCite best practices for metadata management.
+- **Metadata Updates**: Minor updates to metadata can be made without creating a new version, following DataCite or Crossref best practices for metadata management.
 
 ### Responsibilities
 
